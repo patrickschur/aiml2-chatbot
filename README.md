@@ -1,7 +1,6 @@
 aiml2-chatbot-prototype
 =
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/patrickschur/aiml2-chatbot-prototype)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-4AC51C.svg)](http://php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
