@@ -1,4 +1,4 @@
-aiml2-chatbot-prototype
+aiml2-chatbot
 =
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-4AC51C.svg)](http://php.net/)
